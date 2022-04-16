@@ -1,0 +1,4 @@
+@import url("https://ga.jspm.io/npm:@shoelace-style/shoelace@2.0.0-beta.73/dist/themes/light.css");
+:not(:defined) {
+	visibility: hidden;
+}
